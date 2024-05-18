@@ -45,6 +45,6 @@ Whether you're seeking information, assistance, or just a friendly conversation,
 
 ## Made with ❤️ by Prantik 
 
-Feel free to explore, modify, and share this project. Don't forget to credit @devsnp for bringing WormGPT to life.
+
 
 🌟 **Happy Questioning!** 🚀💬
