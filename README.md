@@ -15,7 +15,7 @@ Welcome to WormGPT, your go-to repository for an intelligent and versatile quest
 ### Clone the Repository:
 
 ```bash
-git clone https://github.com/prantikmedhi7/WormGPT-.git&&
+git clone https://github.com/prantikmedhi7/WormGPT.git&&
 cd Wormgpt
 ```
 
