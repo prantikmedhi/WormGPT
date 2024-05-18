@@ -1,4 +1,4 @@
-Title: WormGPT - Your Personal Question Answering Assistant by Nepcoder 🚀
+Title: WormGPT - Your Personal Question Answering Assistant by Prantik🚀
 
 Description:
 Welcome to WormGPT, your go-to repository for an intelligent and versatile question-answering assistant! Created by Nepcoder, this project harnesses the power of GPT-based language models to provide insightful answers to a wide range of queries.
@@ -44,7 +44,7 @@ Ask your questions and experience the power of intelligent responses.
 Whether you're seeking information, assistance, or just a friendly conversation, WormGPT is here to help.
 
 ## Made with ❤️ by Prantik 
-
+Contact 7636978286
 
 
 🌟 **Happy Questioning!** 🚀💬
