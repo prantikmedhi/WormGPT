@@ -15,7 +15,7 @@ Welcome to WormGPT, your go-to repository for an intelligent and versatile quest
 ### Clone the Repository:
 
 ```bash
-git clone https://github.com/Nepcoder1/Wormgpt.git&&
+git clone https://github.com/prantikmedhi7/WormGPT-.git&&
 cd Wormgpt
 ```
 
@@ -43,7 +43,7 @@ Ask your questions and experience the power of intelligent responses.
 
 Whether you're seeking information, assistance, or just a friendly conversation, WormGPT is here to help.
 
-## Made with ❤️ by Nepcoder
+## Made with ❤️ by Prantik 
 
 Feel free to explore, modify, and share this project. Don't forget to credit @devsnp for bringing WormGPT to life.
 
